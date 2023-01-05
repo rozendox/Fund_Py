@@ -5,7 +5,7 @@ Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 nessa versão vamos mostrar as casas após a vírgula
 método format
 
-@rozendo_dev
+@rozendox_
 """
 
 raio = float(input('Informe o raio do cículo'))
