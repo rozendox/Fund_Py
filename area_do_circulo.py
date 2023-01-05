@@ -4,7 +4,7 @@ Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
 com o int deixamos a casa após a virgula de lado
 
-@rozendo_dev
+@rozendox_
 """
 raio_do_circulo = int(input('Informe o raio do cículo'))
 pi = int(3.14)
