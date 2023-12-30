@@ -12,6 +12,11 @@ class Point:
   def distanceFromOrigin(self):
     return((self.x ** 2) + (self.y ** 2 )) ** 0.5
 
+  #converter para string
+  def __str__(self):
+    return 'point' ({}. {})'.format(self.x, self.y)
+    
+
 p =  Point(7,6)
 print(p)
 
